@@ -22,7 +22,7 @@ function Footer() {
 
           {/* Contact */}
           <div>
-            <h5 className="text-[#f0a500] font-semibold mb-4">Contact Me</h5>
+            <h5 className="text-pink-500 font-semibold mb-4">Contact Me</h5>
             <ul className="space-y-2 text-sm">
               <li className="flex items-center justify-center md:justify-start">
                 <FaEnvelope className="mr-2" />
@@ -41,7 +41,7 @@ function Footer() {
 
           {/* Social Media */}
           <div>
-            <h5 className="text-[#f0a500] font-semibold mb-4">Follow Me</h5>
+            <h5 className="text-pink-500 font-semibold mb-4">Follow Me</h5>
             <div className="flex justify-center md:justify-start space-x-4">
               <a
                 href="https://www.linkedin.com/in/sarwan-kumar-5a5658258/"
