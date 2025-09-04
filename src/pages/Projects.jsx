@@ -32,7 +32,7 @@ const projects = [
       "A frontend e-commerce application with a focus on user experience and performance.",
     image: Ecommerce,
     tech: ["React", "HTML", "JavaScript", "Tailwind CSS"],
-    liveLink: "https://frontend-e-commerce-project-s89d-24hm3ryfc.vercel.app/",
+    liveLink: "https://frontend-e-commerce-project-s89d.vercel.app/",
     githubLink: "https://github.com/Sarwan72/frontend_eCommerce_project",
   },
 ];
