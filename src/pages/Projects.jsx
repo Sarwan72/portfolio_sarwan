@@ -4,7 +4,7 @@ import { FaExternalLinkAlt, FaGithub } from "react-icons/fa";
 // import weatherImg from "../assets/images/todoImg.jpg";
 import InterestedInWork from "../components/InterestedInWork";
 import uber from "../assets/images/uber.png";
-import ecommerce from "../assets/images/ecommerce.png";
+import Ecommerce from "../assets/images/Ecommerce.png";
 import portfolio from "../assets/images/portfolio.png";
 
 const projects = [
@@ -30,7 +30,7 @@ const projects = [
     title: "Frontend E-commerce Project",
     description:
       "A frontend e-commerce application with a focus on user experience and performance.",
-    image: ecommerce,
+    image: Ecommerce,
     tech: ["React", "HTML", "JavaScript", "Tailwind CSS"],
     liveLink: "https://frontend-e-commerce-project-s89d-24hm3ryfc.vercel.app/",
     githubLink: "https://github.com/Sarwan72/frontend_eCommerce_project",
