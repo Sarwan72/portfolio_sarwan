@@ -9,13 +9,13 @@ import portfolio from "../assets/images/portfolio.png";
 
 const projects = [
   {
-    title: "Personal Portfolio App",
+    title: "Personal Portfolio",
     description:
       "A responsive and modern portfolio app showcasing my skills, projects, resume, and personal details.",
     image: portfolio,
     tech: ["React", "JavaScript", "Tailwind CSS", "HTML"],
-    liveLink: "https://your-portfolio-link.com",
-    githubLink: "https://github.com/your-repo",
+    liveLink: "https://portfolio-sarwan-3w6p.vercel.app/",
+    githubLink: "https://github.com/Sarwan72/portfolio_sarwan",
   },
   {
     title: "Uber Clone",
