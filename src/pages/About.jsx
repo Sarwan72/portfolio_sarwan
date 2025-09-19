@@ -63,7 +63,7 @@ function About() {
           accomplishments.
         </p>
         <a
-          href="/sarwan31-08.pdf"
+          href="/sarwan_res_2009.pdf"
           download="Sarwan-Resume.pdf"
           className="inline-flex items-center gap-2 bg-pink-500 text-black font-bold py-2 px-6 rounded-md hover:bg-pink-400 transition duration-300"
         >
