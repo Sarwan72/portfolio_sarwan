@@ -9,19 +9,11 @@ import portfolio from "../assets/images/portfolio.png";
 import nearmeet from "../assets/images/nearmeet.png";
 
 const projects = [
-  {
-    title: "Personal Portfolio",
-    description:
-      "A responsive and modern portfolio app showcasing my skills, projects, resume, and personal details.",
-    image: portfolio,
-    tech: ["React", "JavaScript", "Tailwind CSS", "HTML"],
-    liveLink: "https://portfolio-sarwan-3w6p.vercel.app/",
-    githubLink: "https://github.com/Sarwan72/portfolio_sarwan",
-  },
+ 
   {
   title: "NearMeet – Hotel & Venue Booking Platform",
   description:
-    "NearMeet is an offline dating and social-connection application where users can book seats in hotels, clubs, cafés, and restaurants to meet new people face-to-face. Instead of online chatting, NearMeet helps people connect in the real world through pre-booked meetup slots.",
+    "NearMeet is an offline dating and social-connection application where users can book seats in hotels, clubs, cafés, and restaurants to meet new people face-to-face, Instead of online chatting. ",
   image: nearmeet,  // replace with your image import
   tech: [
     "React.js",
@@ -47,6 +39,15 @@ const projects = [
     tech: ["JavaScript","HTML", "React", "API Integration", "Tailwind CSS", "MongoDB", "Node.js", "Express.js"],
     liveLink: "https://uberclone-u9si-pu1dobtak-sarwan-kumars-projects-17476828.vercel.app/",
     githubLink: "https://github.com/Sarwan72/Uberclone",
+  },
+   {
+    title: "Personal Portfolio",
+    description:
+      "A responsive and modern portfolio app showcasing my skills, projects, resume, and personal details.",
+    image: portfolio,
+    tech: ["React", "JavaScript", "Tailwind CSS", "HTML"],
+    liveLink: "https://portfolio-sarwan-3w6p.vercel.app/",
+    githubLink: "https://github.com/Sarwan72/portfolio_sarwan",
   },
   {
     title: "Frontend E-commerce Project",
