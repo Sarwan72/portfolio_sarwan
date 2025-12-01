@@ -6,6 +6,7 @@ import InterestedInWork from "../components/InterestedInWork";
 import uber from "../assets/images/uber.png";
 import Ecommerce from "../assets/images/Ecommerce.png";
 import portfolio from "../assets/images/portfolio.png";
+import nearmeet from "../assets/images/nearmeet.png";
 
 const projects = [
   {
@@ -17,6 +18,27 @@ const projects = [
     liveLink: "https://portfolio-sarwan-3w6p.vercel.app/",
     githubLink: "https://github.com/Sarwan72/portfolio_sarwan",
   },
+  {
+  title: "NearMeet – Hotel & Venue Booking Platform",
+  description:
+    "NearMeet is an offline dating and social-connection application where users can book seats in hotels, clubs, cafés, and restaurants to meet new people face-to-face. Instead of online chatting, NearMeet helps people connect in the real world through pre-booked meetup slots.",
+  image: nearmeet,  // replace with your image import
+  tech: [
+    "React.js",
+    "Tailwind CSS",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "Socket.io",
+    "Stripe Payment Gateway",
+    "JWT Authentication",
+    "REST API Integration",
+    "React Query"
+  ],
+  liveLink: "https://near-meet.vercel.app/",
+  githubLink: "https://github.com/Sarwan72/NearMeet"  
+}
+,
   {
     title: "Uber Clone",
     description:
