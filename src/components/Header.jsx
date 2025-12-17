@@ -1,5 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { FaGithub, FaLinkedin, FaInstagram } from "react-icons/fa";
+import { SiLeetcode, SiCodechef } from "react-icons/si";
+
 // import { BsSun, BsMoon } from "react-icons/bs";
 
 function Header() {
@@ -31,7 +33,9 @@ function Header() {
     { icon: <FaGithub />, url: "https://github.com/sarwan72" },
     { icon: <FaLinkedin />, url: "https://www.linkedin.com/in/sarwan-kumar-5a5658258/" },
     { icon: <FaInstagram />, url: "https://www.instagram.com/_sarwan_6364/" },
-  ];
+    { icon: <SiLeetcode /> , url: "https://leetcode.com/u/Sarwan72/"},
+    { icon: < SiCodechef /> , url: "https://www.codechef.com/users/hareram72"},
+  ]
 
   const handleScroll = (id) => {
     const section = document.getElementById(id);
